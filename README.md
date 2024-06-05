@@ -15,3 +15,8 @@ object and print all details of the book (including the author details)
 - Vansh Rawat
 - Shivam Krishnan
 - Dibyendu Kumar
+
+## Steps to run the code:
+- Open CMD, type cd file_location/folderName
+- Then write javac fileName.java
+- At last, java fileName
