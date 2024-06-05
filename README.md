@@ -8,3 +8,9 @@ price (double), and qtyInStock (int) [Assumption: Each book will be written by e
 Parameterized Constructor: To initialize the variables
 Getters and Setters for all the member variables in the main method, create a book 
 object and print all details of the book (including the author details)
+
+## Team Members
+- Shinei Shukla
+- Vansh Rawat
+- Shivam Krishnan
+- Dibyendu Kumar
