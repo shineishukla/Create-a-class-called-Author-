@@ -1,4 +1,5 @@
-# Create a class Author with the following information.
+# Create a class called "Author" in Java
+## Create a class Author with the following information:
 - Member variables : name (String), email (String), and gender (char) 
 - Parameterized Constructor: To initialize the variables. Create a class Book with the following 
 information.
